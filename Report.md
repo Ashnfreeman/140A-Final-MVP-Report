@@ -1,5 +1,5 @@
 # **Market Opportunity and Business Model Madlib**
-  [INSERT NAME HERE] is a B2C organization that serves students who need a cheap, seamless, and portable way to take, organize, and carry their notes. We will generate revenue using ad-based and transactional revenue models.
+  SmartNote is a B2C organization that serves students who need a cheap, seamless, and portable way to take, organize, and carry their notes. We will generate revenue using ad-based and transactional revenue models.
   
   We estimate our market size to be upwards of 50,000 people, according to statistics released on the number of downloads for popular tablet notetaking apps.
   
