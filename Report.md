@@ -94,4 +94,6 @@ We believe that disorganized college students will use organizational file syste
 * Ask students if organization and retention of their notes is an issue.
 * Ask students if they would be willing to pay a certain amount of money now for a device that only takes notes.
 
+# Journey Map
+
 
