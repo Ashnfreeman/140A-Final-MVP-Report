@@ -96,3 +96,6 @@ We believe that disorganized college students will use organizational file syste
 
 # Journey Map
 See "Journey Map.png" in the root of this repository.
+
+# MVP Canvas
+See "MVPcanvas.png" in the root of this respository.
