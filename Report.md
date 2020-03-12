@@ -95,4 +95,4 @@ We believe that disorganized college students will use organizational file syste
 * Ask students if they would be willing to pay a certain amount of money now for a device that only takes notes.
 
 # Journey Map
-![Image of Journey Map](Journey Map.png)
+See "Journey Map.png" in the root of this repository.
