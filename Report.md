@@ -16,7 +16,7 @@ One potential barrier to entry would be the fact that there are already many tab
 
 * Felix is a college student who is on a budget.  He notices other people in his classes taking notes on I-pad Pros and Microsoft Surfaces and would love to use a similar product.  However he is unable to afford the cost of one of these devices.
 
-* Lucy S. Diaz is college student who is very concious of her carbon footprint.  She wants to be able to take notes and do homework without killing so many trees.
+* Lucy S. Diaz is college student who is very conscious of her carbon footprint.  She wants to be able to take notes and do homework without killing so many trees.
 
 
 # Customer Discovery: Interviews, Job Stories, and Journey Map
